@@ -1,6 +1,6 @@
 prin('Hello')
-a = b
-b=a
+a == '5'
+b== '8'
 print(a-b)
 x = iput(int('Как тебя зовут?')
 print9'Привет,',x,'как у тебя дела?')
